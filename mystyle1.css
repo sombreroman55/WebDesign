@@ -1,11 +1,21 @@
-body
+table, th, td
 {
-	background-color: lightblue;
+	border: 1px solid black;
+	border-collapse: collapse;
 }
 
-h1
+th
 {
-	color:navy;
-	margin-left:20px;
+	text-align: center;
+	background-color: LightGray;
 }
-	
+
+li
+{
+	text-indent: 30px;
+}
+
+html
+{
+	font: Tahoma;
+}
