@@ -15,7 +15,12 @@ li
 	text-indent: 30px;
 }
 
-html
+p, ul, li
 {
-	font: Tahoma;
+	font: 15px arial, sans-serif;
+}
+
+h1
+{
+	font-family: 'Press Start 2P', cursive;
 }
